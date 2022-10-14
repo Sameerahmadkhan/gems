@@ -29,6 +29,9 @@ function Footer() {
         <h3>call me at</h3>
         <h6>+92 0363-xxxxxxx</h6>
         {/* <Map /> */}
+        {/* <halo /> */}
+        {/* <hi /> */}
+        {/* <how /> */}
         </Col>
       </Row>
 
